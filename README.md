@@ -45,3 +45,11 @@
 
 
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
+
+
+ </a>
+ 
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=berkansonmezay&&style=flat-square" align="center" />
+</div> 
+</p>
