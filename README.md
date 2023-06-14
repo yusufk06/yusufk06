@@ -47,9 +47,4 @@
 ![](https://raw.githubusercontent.com/zouariste/corona-runner/gh-pages/assets/corona-runner.gif)
 
 
- </a>
- 
-  <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yusufk06&&style=flat-square" align="center" />
-</div> 
-</p>
+
